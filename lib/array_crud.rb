@@ -7,11 +7,11 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  favorite_anime.push "Sailor Moon"
+  favorite_anime.push("Sailor Moon")
 end
 
 def add_element_to_start_of_array(array, element)
-  favorite_anime.unshift "Outlaw Star"
+  favorite_anime.unshift("Outlaw Star")
 end
 
 def remove_element_from_end_of_array(array)
