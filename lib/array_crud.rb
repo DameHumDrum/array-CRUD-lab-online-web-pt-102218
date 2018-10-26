@@ -1,9 +1,9 @@
 def create_an_empty_array
-  
+  empty_array = []
 end
 
 def create_an_array
-  
+  favorite_anime = ["My Hero Academia", "Attack on Titan" "Cowboy Bebop" "Dragonball Z"]
 end
 
 def add_element_to_end_of_array(array, element)
