@@ -7,6 +7,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
+  favorite_anime = ["My Hero Academia", "Attack on Titan","Cowboy Bebop","Dragonball Z"]
   favorite_anime.push("Sailor Moon")
 end
 
